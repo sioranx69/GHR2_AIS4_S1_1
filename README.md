@@ -28,12 +28,9 @@ In this project, we focus on:
 Data is adapted from the [Kaggle Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) competition, representing real sales data from Favorita, a major Ecuadorian grocery retailer.
 
 ### 🗂 Main Files:
-- `train.csv`: Historical sales data by store, product family, and date.
-- `test.csv`: Test data for the forecast period.
-- `sample_submission.csv`: Format for submitting predictions.
-- `stores.csv`: Metadata about stores (city, state, type, cluster).
-- `holidays_events.csv`: Detailed holiday and event data with labels like `Transfer`, `Bridge`, and `Work Day`.
-- `oil.csv`: Daily oil prices (Ecuador’s economy is oil-dependent).
+- `store_sales_raw.csv`: Historical daily sales of items in stores.
+- `stores.csv`: Metadata for stores (location, type, cluster).
+- `holidays_events.csv`: National, local, and regional holidays/events.
 
 ---
 
