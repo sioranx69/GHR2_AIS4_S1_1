@@ -98,6 +98,22 @@ Data is adapted from the [Kaggle Store Sales - Time Series Forecasting](https://
 - Evaluation was conducted using chronological holdout sets to simulate real-world forecasting.
 
 ---
+## 🚀 Deployment & Interactive Demo
+
+To make our forecasting models accessible and actionable, we deployed both the **SARIMA** and **Prophet** models using **Streamlit**.
+
+### 🖥️ Features of the Deployment
+
+- Interactive visualizations of historical and forecasted sales.
+- Dual-model comparison between **SARIMA** and **Prophet** outputs.
+- Seasonal trends, promotional impacts, and anomalies clearly displayed.
+- Real-time insights to support inventory, marketing, and operations planning.
+
+### 📺 Live Demo (Prophet & SARIMA Visualizations)
+
+[![Watch Demo](https://img.shields.io/badge/▶️%20Click%20Here%20to%20Watch-Demo-blue?logo=google-drive)](https://drive.google.com/file/d/1ylC97JnCt20frFisl_GSsGh1VWELjNyq/view?usp=sharing)
+
+> _"Forecasting is only as good as how it's used—this demo bridges the gap between data science and real-world business value."_
 
 ## 🧠 Future Work
 
